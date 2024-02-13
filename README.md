@@ -1,2 +1,5 @@
-# Rc-technical-
-Diploma college 
+#include<iostream.h>
+int main(){
+cout<<"Hello World";
+return 0;
+}
